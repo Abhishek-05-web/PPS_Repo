@@ -1,3 +1,4 @@
+// Q Write a program to check an alphabet is vowel or consonant
 #include<stdio.h>
 #include<ctype.h>
 int main(){
