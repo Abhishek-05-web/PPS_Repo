@@ -1,3 +1,4 @@
+// Q Write the program to check whether the date is valid or not
 #include<stdio.h>
 #include<ctype.h>
 int main(){
