@@ -1,3 +1,4 @@
+// Q Write a program to design a calculator using switch statement
 #include<stdio.h>
 int main(){
     float a,b;
