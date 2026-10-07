@@ -1,3 +1,4 @@
+// Q Write a program to check which is greater number out of two.
 #include<stdio.h>
 int main(){
     int a,b;
