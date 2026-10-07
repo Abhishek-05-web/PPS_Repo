@@ -1,4 +1,4 @@
-// Q Write a program to convert temperature in celsius to fahrenheit and vice-versa
+// Q Write a program to convert temperature in celsius to fahrenheit and vice-versa. 
 #include<stdio.h>
 int main()
 {
