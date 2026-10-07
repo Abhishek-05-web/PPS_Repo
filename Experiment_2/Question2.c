@@ -1,3 +1,4 @@
+// Q Write a program to check whether the number is negative or positive
 #include<stdio.h>
 int main(){
     int num;
