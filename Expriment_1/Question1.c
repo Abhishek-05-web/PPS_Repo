@@ -1,3 +1,4 @@
+// Q.Write a function to print Hello World
 #include<stdio.h>
 int main(){
     printf("Hello World");
