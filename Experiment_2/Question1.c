@@ -1,3 +1,4 @@
+// Q Write a program to check whether a number is odd or even
 #include<stdio.h>
 int main(){
     int num;
